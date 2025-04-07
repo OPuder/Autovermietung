@@ -1,1 +1,3 @@
-
+Name;Nachname;Email;Salt;PasswordHash;Role;SecurityQuestion;SecurityAnswer
+Admin;;admin@admin.de;7pBmbylFX6oHGJtSRrUSzg==;Ndzd7BuA2FvvOzus9kHHtVmvTy+wxO98N1rJXVPXNe8=;Admin;;
+1;23;12@com;uC21qm7NC/Hwj/5PEGmklw==;yBcw3K1lCFQ8sxgKS9y3iNYItgPIlCujxWq+hrt+59k=;User;Was war der Name deiner ersten Grundschule?;1
