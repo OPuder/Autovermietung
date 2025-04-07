@@ -25,7 +25,7 @@ Dieses Projekt ist eine einfache und verständliche Webanwendung zur Verwaltung 
 git clone https://github.com/OPuder/Autovermietung.git
 ```
 
-2. Öffne das Projekt mit einer IDE deiner Wahl (z.B. Visual Studio oder SharpDevelop).
+2. Öffne das Projekt mit einer IDE deiner Wahl (SharpDevelop).
 
 3. Lege die CSV-Dateien in den Ordner `Assets/` im Projektverzeichnis.
 
